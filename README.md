@@ -1,30 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to LK-DevConf 2019 - Letterkenny
 
-You can use the [editor on GitHub](https://github.com/LK-MUG/DevConf2019Site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to LK-DevConf 2019 (Developer Conference 2019), the first ever developer conference happening in Letterkenny.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+LK-DevConf Provide attendees with an insightful learning experience using Azure,.NET, SharePoint and open source technologies developers endure.
 
-### Markdown
+Spend the day learning cloud/web development with sessions from experts, our technology partners, and members of your local developer community, then roll up your sleeves to continue rest of your journey as Modern Day Full Stack developer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
