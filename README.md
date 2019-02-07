@@ -1,11 +1,15 @@
-## Welcome to LK-DevConf 2019 - Letterkenny
-
+## Welcome 
 Welcome to LK-DevConf 2019 (Developer Conference 2019), the first ever developer conference happening in Letterkenny.
 
 LK-DevConf Provide attendees with an insightful learning experience using Azure,.NET, SharePoint and open source technologies developers endure.
 
 Spend the day learning cloud/web development with sessions from experts, our technology partners, and members of your local developer community, then roll up your sleeves to continue rest of your journey as Modern Day Full Stack developer.
 
+
+## Agenda
+
+
+## Speakers
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
